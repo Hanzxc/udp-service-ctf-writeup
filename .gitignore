@@ -1,0 +1,11 @@
+# Working files generated during the lab — do not commit
+hash.txt
+wordlist.txt
+*.potfile
+hashcat.potfile
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
